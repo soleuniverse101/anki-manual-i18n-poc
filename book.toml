@@ -4,6 +4,9 @@ language = "fr"
 src = "src"
 title = "Anki Manual i18n POC"
 
+[output.html]
+additional-css = ["theme/css/language-picker.css"]
+
 [build]
 extra-watch-dirs = ["po"]
 
