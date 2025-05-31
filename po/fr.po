@@ -25,13 +25,13 @@ msgstr "Étudier"
 
 #: src/intro.md:3
 msgid "Mobile Clients"
-msgstr ""
+msgstr "Clients Mobiles"
 
 #: src/intro.md:5
 msgid ""
 "This is the manual for the computer version of Anki. Separate manuals are "
 "available for the mobile clients:"
-msgstr ""
+msgstr "Ceci est le manuel de la version informatique d'Anki. Des manuels distincts sont disponibles pour les clients mobiles."
 
 #: src/intro.md:7
 msgid "[AnkiDroid Manual](https://docs.ankidroid.org/) (Android)"
@@ -163,20 +163,20 @@ msgstr ""
 
 #: src/studying.md:9
 msgid "Decks"
-msgstr ""
+msgstr "Paquets"
 
 #: src/studying.md:11
 msgid ""
 "Study in Anki is limited to the currently selected deck as well as any "
 "subdecks it contains."
-msgstr ""
+msgstr "L'étude dans Anki est limitée au deck actuellement sélectionné ainsi qu'à tous les \"sous-decks\" qu'il contient."
 
 #: src/studying.md:14
 msgid ""
 "On the decks screen, your decks and subdecks will be displayed in a list. "
 "[New, Learn, and Due (To Review)](getting-started.md#card-states) cards for "
 "that day will be also displayed here."
-msgstr ""
+msgstr "Sur l'écran des decks, vos decks et sous-decks seront affichés sous forme de liste. Les cartes [Nouveaux, Apprendre et À réviser](getting-started.md#card-states) pour ce jour seront également affichées ici."
 
 #: src/studying.md:17
 msgid "![Decks screen](media/decks_screen.png)"
