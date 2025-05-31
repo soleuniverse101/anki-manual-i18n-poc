@@ -1,11 +1,11 @@
 [book]
 authors = ["soleuniverse"]
-language = "fr"
+language = "en"
 src = "src"
 title = "Anki Manual i18n POC"
 
-[output.html]
-additional-css = ["theme/css/language-picker.css"]
+[rust]
+edition = "2024"
 
 [build]
 extra-watch-dirs = ["po"]
@@ -13,7 +13,5 @@ extra-watch-dirs = ["po"]
 [preprocessor.gettext]
 after = ["links"]
 
-[output.xgettext]
-optional = true
-pot-file = "messages.pot"
-granularity = 0
+[output.html]
+additional-css = ["theme/css/language-picker.css"]
